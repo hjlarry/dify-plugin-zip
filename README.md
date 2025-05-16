@@ -1,7 +1,7 @@
 ## zip
 
 **Author:** hjlarry  
-**Version:** 0.0.1  
+**Version:** 0.0.2  
 **Type:** tool  
 **Repo:** [https://github.com/hjlarry/dify-plugin-zip](https://github.com/hjlarry/dify-plugin-zip)  
 
